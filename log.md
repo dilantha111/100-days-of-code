@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+<!--# 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -27,4 +27,10 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+
+### Day 0: June 02, 2017 
+
+**Today's Progress**: Made the Use case diagrams and Basic ER diagrams for a community web application where people post jobs for others. So others can view them and apply for them.
+
+**Thoughts:** It's not coding but hours of planing makes better codings. I think. :) 
