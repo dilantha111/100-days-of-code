@@ -34,3 +34,13 @@
 **Today's Progress**: Made the Use case diagrams and Basic ER diagrams for a community web application where people post jobs for others. So others can view them and apply for them.
 
 **Thoughts:** It's not coding but hours of planing makes better codings. I think. :) 
+
+### Day 1: June 03, 2017 
+
+**Today's Progress**: Normalized the ER Diagram further. And set up the development enviornment. Laravel. And initialized the git repo.
+
+**Thoughts:** well I think I should commit more than one hour for this. But I am counting without the time I use to learn the necessary things for this project.
+
+**Link(s) to work** 
+https://github.com/dilantha111/jobSearch
+
