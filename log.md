@@ -44,3 +44,11 @@
 **Link(s) to work** 
 https://github.com/dilantha111/jobSearch
 
+### Day 2: June 04, 2017 
+
+**Today's Progress**: Dig deeper into the Eloquent ORM of laravel. And set up the databse locally and conneceted that with the Laravel App.
+
+**Thoughts:** I have commited more than one hour today. And that's a necessary that I should contribute more than one hour. And it's very important that I continue this endevour. Laravel has a great community support.
+
+**Link(s) to work** 
+https://github.com/dilantha111/jobSearch
