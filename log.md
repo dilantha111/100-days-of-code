@@ -52,3 +52,12 @@ https://github.com/dilantha111/jobSearch
 
 **Link(s) to work** 
 https://github.com/dilantha111/jobSearch
+
+### Day 3: June 04, 2017 
+
+**Today's Progress**: Still in the database stage. Trying to figure out how authentication should manage. Eager loading tutorial completed on Laravel.
+
+**Thoughts:** I should manage my time more efficeiently. A good approach will be removing all the distractions turned aways.
+
+**Link(s) to work** 
+https://github.com/dilantha111/jobSearch
