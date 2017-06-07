@@ -53,7 +53,7 @@ https://github.com/dilantha111/jobSearch
 **Link(s) to work** 
 https://github.com/dilantha111/jobSearch
 
-### Day 3: June 04, 2017 
+### Day 3: June 05, 2017 
 
 **Today's Progress**: Still in the database stage. Trying to figure out how authentication should manage. Eager loading tutorial completed on Laravel.
 
@@ -61,3 +61,10 @@ https://github.com/dilantha111/jobSearch
 
 **Link(s) to work** 
 https://github.com/dilantha111/jobSearch
+
+### Day 4: June 07, 2017 
+
+**Today's Progress**: well today I didn't do anything except learning laravel. And I missed a day already. What I did today is learning validation in Laravel. 
+
+**Thoughts:** I should get my self in to the track.
+
