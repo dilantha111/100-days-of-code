@@ -68,3 +68,8 @@ https://github.com/dilantha111/jobSearch
 
 **Thoughts:** I should get my self in to the track.
 
+### Day 5: June 09, 2017 
+
+**Today's Progress**: Laravel Authentication
+
+**Thoughts:** Yeah I should work more and more.
