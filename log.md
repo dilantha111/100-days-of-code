@@ -73,3 +73,7 @@ https://github.com/dilantha111/jobSearch
 **Today's Progress**: Laravel Authentication
 
 **Thoughts:** Yeah I should work more and more.
+
+### Day 6: June 11, 2017 
+
+**Today's Progress**: I found a way to make social logins with laravel. That's easier.Socialite an official package by laravel. 
