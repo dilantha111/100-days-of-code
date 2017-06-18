@@ -77,3 +77,11 @@ https://github.com/dilantha111/jobSearch
 ### Day 6: June 11, 2017 
 
 **Today's Progress**: I found a way to make social logins with laravel. That's easier.Socialite an official package by laravel. 
+
+**Restarted!!!!!!!** << I missed few days. So according to rules. I restared the challenge.
+
+### Day 1: June 18, 2017
+
+**Today's Progress**: Made all the migrations needed for the tables. And partially completed the foriegn key constrainsts. This is important for deleting the unnecessary data automatically by the database engine. 
+
+**Thoughts:** I am gonna win this game !!! 
