@@ -85,3 +85,9 @@ https://github.com/dilantha111/jobSearch
 **Today's Progress**: Made all the migrations needed for the tables. And partially completed the foriegn key constrainsts. This is important for deleting the unnecessary data automatically by the database engine. 
 
 **Thoughts:** I am gonna win this game !!! 
+
+### Day 2: June 19, 2017
+
+**Today's Progress**: foreign keys are fully completed. Add two additional migrations which slipped from my mind while in desgining phase. And tested with migrating. 
+
+**Thoughts:** No matter what I am gonna do it. 
