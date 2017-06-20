@@ -91,3 +91,9 @@ https://github.com/dilantha111/jobSearch
 **Today's Progress**: foreign keys are fully completed. Add two additional migrations which slipped from my mind while in desgining phase. And tested with migrating. 
 
 **Thoughts:** No matter what I am gonna do it. 
+
+### Day 3: June 20, 2017
+
+**Today's Progress**: Made the authentication. 
+
+**Thoughts:** Yes it's a matter of involvement. 
