@@ -97,3 +97,8 @@ https://github.com/dilantha111/jobSearch
 **Today's Progress**: Made the authentication. 
 
 **Thoughts:** Yes it's a matter of involvement. 
+
+### Day 4: June 21, 2017
+
+**Today's Progress**: Made the data models. And tested Jobs saving process. 
+**Thoughts:** Well Laravel is so cool. And I know I can do more than I imagine. 
