@@ -102,3 +102,8 @@ https://github.com/dilantha111/jobSearch
 
 **Today's Progress**: Made the data models. And tested Jobs saving process. 
 **Thoughts:** Well Laravel is so cool. And I know I can do more than I imagine. 
+
+### Day 5: June 22, 2017
+
+**Today's Progress**: Creating Jobs, Posts and viewing them. 
+**Thoughts:** Being myself. working in my style.
