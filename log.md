@@ -107,3 +107,7 @@ https://github.com/dilantha111/jobSearch
 
 **Today's Progress**: Creating Jobs, Posts and viewing them. 
 **Thoughts:** Being myself. working in my style.
+
+### Day 6: June 23, 2017
+**Today's Progress**: Authorization first steps. 
+**Thoughts:** Yes I can !!!! And I have to stop some unproductive things.
