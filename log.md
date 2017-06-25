@@ -111,3 +111,7 @@ https://github.com/dilantha111/jobSearch
 ### Day 6: June 23, 2017
 **Today's Progress**: Authorization first steps. 
 **Thoughts:** Yes I can !!!! And I have to stop some unproductive things.
+
+### Day 7: June 25, 2017
+**Today's Progress**: Authorization completed for the Post model. only Users above Normal Registered Users can create Posts.
+**Thoughts:** Laravel is best for web developing. 
