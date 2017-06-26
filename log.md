@@ -115,3 +115,7 @@ https://github.com/dilantha111/jobSearch
 ### Day 7: June 25, 2017
 **Today's Progress**: Authorization completed for the Post model. only Users above Normal Registered Users can create Posts.
 **Thoughts:** Laravel is best for web developing. 
+
+### Day 8: June 26, 2017
+**Today's Progress**: Added update policies for both jobs and posts models. And delete policy. Took a look at VueJS. 
+**Thoughts:** Thinking about the frontend.Should I go with the familiar Angular or should I try something else. VueJS ? And for CSS as I previousely thought should I go with Materialze or should I consider bootstrap instead ? I should decide within tomorrow. 
